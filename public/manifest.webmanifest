@@ -1,0 +1,21 @@
+{
+  "name": "FocusForge Study Tracker",
+  "short_name": "FocusForge",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#1d4ed8",
+  "description": "Track study sessions, pomodoro cycles, goals, and analytics even offline.",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
